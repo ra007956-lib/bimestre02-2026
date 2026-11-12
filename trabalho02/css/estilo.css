@@ -1,0 +1,126 @@
+.conbran-fundo {
+  background-color: #ffffff;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #212529;
+}
+
+.conbran-titulo {
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #333333;
+  text-transform: uppercase;
+}
+
+.conbran-linha {
+  width: 50px;
+  height: 3px;
+  margin: 1rem auto 2.5rem;
+  background-color: #1f7ac9;
+  border: 0;
+  opacity: 1;
+}
+
+.conbran-tabela {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.conbran-tabela th,
+.conbran-tabela td {
+  vertical-align: middle;
+  padding: 0.9rem 0.75rem;
+  border-color: #e3e3e3;
+}
+
+.conbran-tabela thead th {
+  color: #ffffff;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.conbran-lote {
+  font-size: 1.1rem;
+}
+
+.conbran-info {
+  font-size: 0.8rem;
+}
+
+.conbran-sub {
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.conbran-categoria {
+  padding-left: 2rem !important;
+}
+
+.cor-categoria-topo {
+  --bs-table-bg: #ff9800;
+}
+
+.cor-promo-topo {
+  --bs-table-bg: #22c71b;
+}
+
+.cor-lote1-topo {
+  --bs-table-bg: #1e9bd7;
+}
+
+.cor-lote2-topo {
+  --bs-table-bg: #0aa31e;
+}
+
+.cor-lote3-topo {
+  --bs-table-bg: #ff6a00;
+}
+
+.cor-cursos-topo {
+  --bs-table-bg: #0d9bd2;
+}
+
+.cor-categoria {
+  --bs-table-bg: #f3f9fd;
+}
+
+.cor-promo {
+  --bs-table-bg: #a3f58f;
+}
+
+.cor-lote1 {
+  --bs-table-bg: #00e5ff;
+}
+
+.cor-lote2 {
+  --bs-table-bg: #00ffc8;
+}
+
+.cor-lote3 {
+  --bs-table-bg: #ffd27a;
+}
+
+.cor-cursos {
+  --bs-table-bg: #b3e5fc;
+}
+
+.conbran-botao {
+  background-color: #1a7a3a;
+  border-color: #1a7a3a;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.conbran-botao:hover {
+  background-color: #146030;
+  border-color: #146030;
+}
+
+.conbran-encerrado {
+  background-color: #ff6a00;
+  color: #ffffff;
+  border-radius: 0;
+  font-size: 0.85rem;
+  letter-spacing: 1px;
+  padding: 0.2rem 1.5rem;
+}
